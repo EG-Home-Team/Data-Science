@@ -1,3 +1,5 @@
+# This is the code source for EG-Home Web Application's Prototype.
+-----------------------------------------------------
 # Tutorial: Get Started With Kotlin
 
 This repository contains the code of a Spring Boot Kotlin application example with Okta OpenID Connect authentication.
